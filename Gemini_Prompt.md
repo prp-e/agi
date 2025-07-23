@@ -6,6 +6,11 @@ I am going to start a new project in the AI space. My project is jokingly called
 
 ## What I have
 
+- Access to good GPU's through modal or runpod. 
+- Access to good people in the space.
+- Base models.
+- Ability to code and learn very fast (personal)
+
 ## What I aimed for 
 
 ## My questions
