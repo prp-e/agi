@@ -24,3 +24,4 @@
     - Startup Presentation
 - Being Open Source
 - Local execution is also a matter of importance.
+- Can become a cash-cow for my new company.
