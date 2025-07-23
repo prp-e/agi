@@ -23,3 +23,4 @@
     - Business Assistance
     - Startup Presentation
 - Being Open Source
+- Local execution is also a matter of importance.
