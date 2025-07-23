@@ -13,4 +13,6 @@ I am going to start a new project in the AI space. My project is jokingly called
 
 ## What I aimed for 
 
+- A model which is good at multiple tasks. Not really big, but good at multiple tasks.
+
 ## My questions
