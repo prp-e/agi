@@ -16,3 +16,11 @@ I am going to start a new project in the AI space. My project is jokingly called
 - A model which is good at multiple tasks. Not really big, but good at multiple tasks.
 
 ## My questions
+
+- How many topics should I cover in order to make my model?
+- How can I advertise for this model when OpenAI, Google, Bytedance, etc. are dominating? 
+- How can we distinguish amongst these huge AI companies?
+
+## What you should do. 
+
+Read the above document carefully, and ONLY answer _My Questions_ section precisely.
