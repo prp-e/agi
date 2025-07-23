@@ -32,3 +32,7 @@
 - Transparency and Openness
 - Specific Use Cases and Applications
 - Developer-Centric Marketing
+
+## Distinguishing from others 
+
+- Community and Support
