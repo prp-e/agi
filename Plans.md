@@ -9,3 +9,17 @@
 - [ ] Gemma3 12B
 
 ## Goals
+
+- Focusing on distinct, yet related, topics/domains
+    - Creative Writing
+    - Technical Q & A 
+    - Programming/Coding assistance
+    - Accuracy in Persian Language
+    - Translation
+    - Mathematics
+    - Physics 
+    - Biology
+    - Personal Planning 
+    - Business Assistance
+    - Startup Presentation
+    
