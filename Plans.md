@@ -22,4 +22,4 @@
     - Personal Planning 
     - Business Assistance
     - Startup Presentation
-    
+- Being Open Source
