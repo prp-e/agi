@@ -5,3 +5,7 @@
 - [x] Qwen 3 4B
 
 ## Goals
+
+### Knowledge Distillation
+
+### Niche Goals
