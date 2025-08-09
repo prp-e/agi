@@ -15,3 +15,7 @@
 - Mistral Large/Small
 
 ### Niche Goals
+
+- [ ] Persian Language
+- [ ] Coding Tasks 
+- [ ] Tool Calling
