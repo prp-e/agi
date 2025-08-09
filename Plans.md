@@ -19,3 +19,7 @@
 - [ ] Persian Language
 - [ ] Coding Tasks 
 - [ ] Tool Calling
+
+## Project Architecture
+
+Multiple or single adapters on top of the desired model.
